@@ -1,7 +1,7 @@
 {
-  "name": "bucks",
+  "name": "community-assets",
   "version": "1.0.0",
-  "description": "",
+  "description": "Backend data and api for community assets",
   "main": "index.js",
   "scripts": {
     "dev": "nodemon server.js",
