@@ -29,5 +29,8 @@
     "morgan": "^1.9.1",
     "notifications-node-client": "^4.6.0",
     "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
   }
 }
